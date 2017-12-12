@@ -13,4 +13,4 @@ const fareMultiplier = function createFareMultiplier(multiplier){
   function (){
     multiplier * multiplier
   }
-})
+}
